@@ -1,0 +1,7 @@
+{
+	"coin_code": "USDT",
+	"coin_name": "Tether US",
+	"unit_decimal": 8,
+	"contract_address": "0x8491ab69c89Bb189A8389906c27F016df4A1bF74",
+	"token_logo": "images/0x8491ab69c89Bb189A8389906c27F016df4A1bF74.png"
+} 
